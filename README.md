@@ -53,12 +53,12 @@
     src="https://user-images.githubusercontent.com/55641225/210591088-3a2380eb-3fb5-4f48-9e9c-5487e9afc1e4.png"
     alt="hasil-diagnosa2"
 />
-
+<!-- 
 <ol>
     <li><a href="https://github.com/alfiatqia26" target="_blank">Alfi Atqia R.</li>
     <li><a href="https://github.com/canggihwr" target="_blank">Canggih Wahyu R.</a></li>
     <li><a href="https://github.com/Andrian17" target="_blank">Andrian</a></li>
-<ol>
+<ol> -->
 
 ## Menjalankan Program
 
